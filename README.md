@@ -1,7 +1,7 @@
 # helloworld
 
 ## Description
-my first repo
+This is my first project using source control through Git
 
 ## Technologies
 JavaScript
