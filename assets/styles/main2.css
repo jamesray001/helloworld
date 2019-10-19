@@ -1,0 +1,144 @@
+
+footer {
+    color: limegreen;
+    height: 20px;
+    background-color: darkred;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 0.75;
+  }
+
+  header {
+    color: limegreen;
+    height: 45px;
+    background-color: darkred;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.75;
+  }
+
+  #home {
+    background-color: black;
+}
+
+#interests {
+    background-color: gray;
+}
+
+#future {
+    background-color: darkgray;
+}
+
+#sites {
+    background-color: darkslategray;
+}
+
+h2 {
+    color: limegreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    background-color: darkred;
+    opacity: 0.75;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-color: black;
+    border-style: dotted dashed;
+    border-width: 10px;
+}
+
+h1 {
+    color: limegreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 65px;
+    background-color: darkred;
+    opacity: 0.75;
+    text-align: center;
+    margin: 5px;
+    padding: 30px;
+    border-color: black;
+    border-style: dotted dashed;
+    border-width: 10px;
+}
+
+#home-text {
+    color: yellowgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    text-align: center;   
+    margin: 20px;
+    padding: 20px;
+}
+
+#interests-table {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 22px;
+    margin: 20px;
+    padding: 20px;
+}
+
+#interests-text {
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 22px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.interests-pics {
+    margin: 10px;
+    padding: 10px;
+}
+
+#future-text {
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 22px;
+    margin: 20px;
+    padding: 20px;
+}
+
+#fav-sites {
+    color: limegreen;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    margin: 20px;
+    padding: 20px;
+}
+
+#sites-text {
+    color: limegreen;
+    opacity: 0.75;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 22px;
+    margin: 20px;
+    padding: 20px;
+}
+
+ul#main-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ul#main-nav li {
+    float: left;
+}
+
+ul#main-nav li a {
+    display: block;
+    color: yellow;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul#main-nav li a:hover {
+    background-color: #111;
+}

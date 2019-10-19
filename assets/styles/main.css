@@ -1,0 +1,157 @@
+
+footer {
+    height: 20px;
+    background-color: lightblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    opacity: 0.75;
+  }
+
+  header {
+    height: 45px;
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    opacity: 0.75;
+  }
+
+#home {
+    background-image: url(/assets/images/snow.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: scroll;
+}
+
+#interests {
+    background-image: url(/assets/images/classic\ wow.jpg);
+    background-repeat: no-repeat;
+    background-size: 2448px 1024px;
+    background-attachment: fixed;
+}
+
+#future {
+    background-image: url(/assets/images/Tokyo.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px 1280px;
+    background-attachment: scroll;
+}
+
+#sites {
+    background-image: url(/assets/images/TL.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px 1280px;
+}
+
+h2 {
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    background-color: grey;
+    opacity: 0.75;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border-color: lightskyblue;
+    border-style: double;
+}
+
+h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 65px;
+    background-color: grey;
+    opacity: 0.75;
+    text-align: center;
+    margin: 5px;
+    padding: 30px;
+    border-color: black;
+    border-style: solid;
+}
+
+#family-pic {
+    height: 477px;
+    width: 480px;    
+}
+
+#home-text {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    text-align: center;   
+    margin: 20px;
+    padding: 20px;
+}
+
+#interests-table {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 22px;
+    margin: 20px;
+    padding: 20px;
+}
+
+#interests-text {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 22px;
+    margin: 20px;
+    padding: 20px;
+}
+
+.interests-pics {
+    margin: 10px;
+    padding: 10px;
+}
+
+#future-text {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 22px;
+    margin: 20px;
+    padding: 20px;
+}
+
+#fav-sites {
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+    margin: 20px;
+    padding: 20px;
+}
+
+#sites-text {
+    color: blue;
+    background-color: white;
+    opacity: 0.75;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 22px;
+    margin: 20px;
+    padding: 20px;
+}
+
+ul#main-nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+ul#main-nav li {
+    float: left;
+}
+
+ul#main-nav li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+ul#main-nav li a:hover {
+    background-color: #111;
+}
